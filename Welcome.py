@@ -1,1 +1,3 @@
-print "Welcome to Python Learning " 
+#!/usr/bin/python
+
+print "Hello, Python!"
